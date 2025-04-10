@@ -1,5 +1,3 @@
-# auto-test
-auto-test
 <changeSet id="create-tnr-tables" author="you">
     <createTable tableName="tnr">
         <column name="id" type="BIGINT" autoIncrement="true">
